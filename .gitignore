@@ -1,0 +1,3 @@
+pipeline_backend/*
+pipeline_frontend/*
+database.env

@@ -1,3 +1,5 @@
-pipeline_backend/*
-pipeline_frontend/*
+backend/*
+!backend/.gitkeep
+frontend/*
+!backend/.gitkeep
 database.env
